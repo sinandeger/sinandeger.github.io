@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-
+Welcome to the construction site of my website
