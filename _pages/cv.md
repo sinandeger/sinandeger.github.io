@@ -15,15 +15,13 @@ Education
 * Master of Science in Physics, Middle East Technical University (METU), 02/2011
 * Bachelor of Science in Physics, Middle East Technical University (METU), 01/2008
 
-Work experience
+Appointments
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Postdoctoral Scholar at Caltech    08/2019 - Current
+  * 08/2019 - 03/2021: IPAC  || 03/2021 - Current: TAPIR
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Research Assistant   01/2016 - 08/2019
+  * The University of Kansas, Department of Physics & Astronomy
+  
+
   
