@@ -86,7 +86,7 @@ author:
   location         : "Pasadena, CA"
   employer         : "California Institute of Technology"
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -211,7 +211,7 @@ defaults:
       author_profile: true
   # _teaching
   - scope:
-      path: ""
+      path: ""scho
       type: teaching
     values:
       layout: single
