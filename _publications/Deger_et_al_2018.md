@@ -1,7 +1,7 @@
 ---
 title: " Tidal Interactions and Mergers in Intermediate-redshift EDisCS Clusters "
 collection: publications
-permalink: /publication/Deger_et_al_2018.md
+permalink: /publication/Deger_et_al_2018
 excerpt: ''
 date: 5 December 2018
 venue: 'The Astrophysical Journal'
