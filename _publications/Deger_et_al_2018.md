@@ -13,4 +13,5 @@ Abstract: We study the fraction of tidal interactions and mergers (TIMs) with we
 
 [You can access the paper here](https://ui.adsabs.harvard.edu/abs/2018ApJ...869....6D/abstract)
 
-# Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
+ApJ Style citation: Deger, S., Rudnick, G., Kelkar, K., et al. 2018, ApJ, 869, 6
