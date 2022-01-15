@@ -14,4 +14,4 @@ Abstract: We study the fraction of tidal interactions and mergers (TIMs) with we
 [You can access the paper here](https://ui.adsabs.harvard.edu/abs/2018ApJ...869....6D/abstract)
 
 
-ApJ Style citation: Deger, S., Rudnick, G., Kelkar, K., et al. 2018, ApJ, 869, 6
+ApJ style citation: Deger, S., Rudnick, G., Kelkar, K., et al. 2018, ApJ, 869, 6
