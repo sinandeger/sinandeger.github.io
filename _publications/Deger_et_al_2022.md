@@ -3,7 +3,7 @@ title: "Bright, Relatively Isolated Star Clusters in PHANGS-HST Galaxies: Apertu
 collection: publications
 permalink: /publication/Deger_et_al_2022
 excerpt: 
-date: Published: 12 November 2021
+date: 12 November 2021
 venue: 'Monthly Notices of the Royal Astronomical Society'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2022MNRAS.510...32D/abstract'
 citation: '<b>Sinan Deger</b>, Janice C. Lee, Bradley C. Whitmore, David A. Thilker, et al.;  Bright, Relatively Isolated Star Clusters in PHANGS-HST Galaxies: Aperture Corrections, Quantitative Morphologies, and Comparison with Synthetic Stellar Population Models, Monthly Notices of the Royal Astronomical Society, Volume 510, Issue 1, February 2022, Pages 32–53 -'
