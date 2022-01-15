@@ -211,7 +211,7 @@ defaults:
       author_profile: true
   # _teaching
   - scope:
-      path: ""scho
+      path: ""
       type: teaching
     values:
       layout: single
