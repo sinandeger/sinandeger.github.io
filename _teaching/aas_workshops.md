@@ -4,10 +4,12 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/aas_workshops
 venue: "235th and 237th Meetings of the American Astronomical Society"
-date: 2019-01-01
-location: ""
+date: 2019-01-07 and 2020-01-07
+location: "Honolulu, HI & Online"
 ---
 
 I have helped co-organize hands-on machine learning workshops for two winter meetings of the American Astronomical Society (AAS). I have also implemented and presented tutorials,  details of which can be found [here](https://sites.google.com/view/aas237mlworkshop).
+
+My tutorials focused on the morphological classification of CANDELS galaxies from the GOODS-S field.
 
 
