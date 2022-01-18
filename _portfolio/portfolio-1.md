@@ -1,6 +1,6 @@
 ---
 title: "Stellar Populations of the EDisCS Cluster/Group/Field Galaxy Sample"
-excerpt: "Extracting the mass-weigthed age distributions of EDisCS galaxies via full spectrum fitting<br/><img src='portfolio1_example_fit.png'>"
+excerpt: "Extracting the mass-weigthed age distributions of EDisCS galaxies via full spectrum fitting<br/><img src='/images/portfolio1_example_fit.pdf'>"
 collection: portfolio
 ---
 
