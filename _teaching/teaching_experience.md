@@ -4,7 +4,7 @@ collection: teaching
 type: ""
 permalink: /teaching/teaching_experience
 venue: "METU / The University of Kansas"
-date: "2008-2015"
+date: ""
 location: ""
 ---
 
