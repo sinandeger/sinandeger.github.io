@@ -17,11 +17,17 @@ Education
 
 Appointments
 ======
-* Postdoctoral Scholar at Caltech    08/2019 - Current
+* Postdoctoral Researcher at Caltech    08/2019 - Current
   * 08/2019 - 03/2021: IPAC   |   03/2021 - Current: TAPIR
 
 * Graduate Research Assistant   01/2016 - 08/2019
   * The University of Kansas, Department of Physics & Astronomy
+
+* Graduate Teaching Assistant   08/2012 - 01/2016
+  * The University of Kansas, Department of Physics & Astronomy
+
+* Graduate Teaching Assistant   10/2008 - 07/2012
+  * Middle East Technical University (METU), Department of Physics
   
 
   
