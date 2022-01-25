@@ -7,6 +7,9 @@ author_profile: true
 
 Please visit the Portfolio tab for updates on papers currently in prep.
 
+First Author Publications
+======
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
