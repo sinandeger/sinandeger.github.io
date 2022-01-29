@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Brief CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,7 +18,7 @@ Education
 Appointments
 ======
 * Postdoctoral Researcher at Caltech    08/2019 - Current
-  * 08/2019 - 03/2021: IPAC   |   03/2021 - Current: TAPIR
+  * 08/2019 - 03/2021: IPAC   +++   03/2021 - Current: TAPIR, Department of Astrophysics
 
 * Graduate Research Assistant   01/2016 - 08/2019
   * The University of Kansas, Department of Physics & Astronomy
@@ -28,6 +28,12 @@ Appointments
 
 * Graduate Teaching Assistant   10/2008 - 07/2012
   * Middle East Technical University (METU), Department of Physics
-  
+
+Telescope Proposals
+======
+
+I have contributed to and am designated as a co–investigator in the following accepted
+proposals.
+
 
   
