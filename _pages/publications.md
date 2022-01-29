@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+To view the full list of my first and contributed author papers, please visit [my ADS library.](https://ui.adsabs.harvard.edu/public-libraries/r9Pm9famSwCf4HvEHMDe9g)
+
 Please visit the Portfolio tab for updates on papers currently in prep.
 
 First Author Publications
