@@ -38,11 +38,11 @@ proposals.
 * "How do local environmental conditions influence the stellar cluster mass-radius relation?" <br/>
  *HST* Cycle 29, ID AR16636; (2021) PI: David Thilker
 
-* "Quantifying the relation between exquisitely detailed dust extinction features and molecular gas using HST and ALMA" <br/>      
+* "Quantifying the relation between exquisitely detailed dust extinction features and molecular gas using HST and ALMA" <br/>
  *HST* Cycle 29, ID AR16637; (2021) PI: David Thilker
   
 * "A JWST-HST-VLT/MUSE-ALMA Treasury of Star Formation in Nearby Galaxies" <br/>
  *JWST* Cycle 1, ID 2107; (2021) PI: Janice C. Lee
 
-* "The GOGREEN Survey: The Relationship between Quenching, Morphological Transformation and Size Growth of Satellite Galaxies" <br/>      
+* "The GOGREEN Survey: The Relationship between Quenching, Morphological Transformation and Size Growth of Satellite Galaxies" <br/>
  *HST* Cycle 25, ID 15294; (2017) PI: Gillian Wilson
