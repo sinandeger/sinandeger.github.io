@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sinan Deger  || Academic Portfolio"
+title                    : "Sinan Deger || Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Sinan Deger" adfad
 description              : &description "Postdoctoral Scholar at Caltech"
