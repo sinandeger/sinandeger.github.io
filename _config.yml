@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sinan Deger || Academic Portfolio"
+title                    : "Sinan Deger  || Academic Portfolio"
 title_separator          : "-"
-name                     : &name "Sinan Deger" adfad
+name                     : &name "Sinan Deger"
 description              : &description "Postdoctoral Scholar at Caltech"
 url                      : https://sinandeger.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -309,4 +309,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
