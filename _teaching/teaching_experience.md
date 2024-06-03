@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching"
 permalink: /teaching/teaching_experience
 venue: "METU / The University of Kansas"
-date: 2016
+date: 2016-12-31
 ---
 
 I have had the opportunity to teach numerous classes during my education as a graduate student. Here be a few highlights. 
