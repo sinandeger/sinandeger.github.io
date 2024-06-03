@@ -1,9 +1,10 @@
 ---
 title: "Teaching Experience at Academic Institutions"
 collection: teaching
+type: "Teaching"
 permalink: /teaching/teaching_experience
 venue: "METU / The University of Kansas"
-date: 11/2008 - 07/2012 & 08/2012 - 12/2016
+date: 2016
 ---
 
 I have had the opportunity to teach numerous classes during my education as a graduate student. Here be a few highlights. 
